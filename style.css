@@ -12,5 +12,10 @@ h2{
 }
 p{
     color: white;
+    width: 50%;
 }
 
+.nav-link {
+    color: white; 
+    font-weight: bold;
+}
